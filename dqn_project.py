@@ -6,7 +6,6 @@ import tensorflow as tf
 import numpy as np
 from itertools import count
 from replay_memory import ReplayMemory, Transition
-import env_wrappers
 import random
 import os
 import argparse
