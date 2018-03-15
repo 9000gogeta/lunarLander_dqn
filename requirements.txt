@@ -2,4 +2,3 @@ gym
 tensorflow
 opencv-python
 Pillow
-Box2d
